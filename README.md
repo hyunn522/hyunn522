@@ -2,11 +2,9 @@
 
 <div align="center">
 
-성장과 협업을 즐기는 백엔드 개발자 정서현입니다.
+## Hi there!
 
 </div>
-
----
 
 <table align="center">
   <tr>
