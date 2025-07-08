@@ -1,16 +1,27 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**hyunn522/hyunn522** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hi, there!
 
-Here are some ideas to get you started:
+성장과 협업을 즐기는 백엔드 개발자 정서현입니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+<table align="center">
+  <tr>
+    <th align="center">🧩 <b>Sovled.ac</b></th>
+    <th align="center">📈 <b>GitHub Status</b></th>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://solved.ac/tjgus522/">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tjgus522" width="300" />
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=hyunn522&show_icons=true&theme=graywhite" width="300" />
+    </td>
+  </tr>
+</table>
+
