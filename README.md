@@ -1,35 +1,75 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=ECECEC&height=100&section=header&text=Seohyun%20Jeong&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=venom&color=A7DCC9&height=200&section=header&text=Seohyun%20Jeong&fontSize=60&fontColor=FFFFFF)
 
-<div align="center">
+<div>
 
 ## Hi there!
 
+I'm a **Backend Developer** who enjoys learning new technologies and recently expanding into **Infra & Cloud Engineering**. 
+
+I value **collaboration and communication**, focused on creating technical value through collaboration.
+
+With a passion for scalable and reliable systems, I aim to design services that are not only effective but also meaningful.
+
 </div>
 
-<br />
+<hr />
 
-<table align="center">
+## 🧩 Activity
+
+- `2021.03 ~` 건국대학교 컴퓨터공학부
+- `2023.09 ~ 2024.08` 건국대학교 개발 동아리 KUIT 2, 3기 : Web, Server 파트
+- `2024.02 ~ 2024.06` 한국대학생IT경영학회 29기 : Web 파트
+- `2025.07 ~` 우리FISA 5기 : 클라우드 엔지니어링
+
+<hr />
+
+## 📁 Key Projects
+
+<table>
   <tr>
-    <th align="center">📈 <b>GitHub Status</b></th>
-    <th align="center">🧩 <b>Solved.ac</b></th>
+    <th>No.</th>
+    <th>이름</th>
+    <th>설명</th>
+    <th>주요 스택</th>
+    <th>기간</th>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=hyunn522&show_icons=true&theme=graywhite" width="300" />
-    </td>
-    <td align="center">
-      <a href="https://solved.ac/tjgus522/">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tjgus522" width="300" />
-      </a>
-    </td>
+    <td>1</td>
+    <td><a href="https://github.com/Chat-Diary/FE"><b>😺 Chat Diary</b></a></td>
+    <td>AI와의 대화를 통해 간편하게 일기를 작성할 수 있는 서비스</td>
+    <td>React, Typescript</td>
+    <td>2023.12.28 ~ 2024.02.20</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td><a href="https://github.com/Kusitms-29th-Meetup-TeamE/Frontend"><b>👵🏻 DDOBA</b></a></td>
+    <td>시니어의 활발한 사회 참여를 위한 커뮤니티 서비스</td>
+    <td>NextJS, Typescript</td>
+    <td>2024.04.21 ~ 2024.05.23</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td><a href="https://github.com/KUIT-Space/KUIT_Space_BackEnd"><b>🚀 Space</b></a></td>
+    <td>정산, 커뮤니티, 채팅, 회의 기능을 제공하는 동아리 통합 관리 서비스</td>
+    <td>Java, Spring Boot</td>
+    <td>2024.06.28 ~ 2025.03.18</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td><a href="https://github.com/Woori-Kafrika/Kafrika-BE"><b>🫑 Kafrika</b></a></td>
+    <td>Kafka 도입 여부에 따른 실시간 대규모 트래픽 처리 성능 비교</td>
+    <td>Kafka, Java, JMeter</td>
+    <td>2025.07.21 ~ 2025.08.04</td>
   </tr>
 </table>
 
 <br />
 
+<hr />
+
 ## 💻 Tech Stack
 
-<table align="center">
+<table>
   <tr>
     <th>🧰 Backend</th>
     <td>
@@ -55,8 +95,10 @@
     <td>
       <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
       <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
       <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
+      <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white"/>
     </td>
   </tr>
   <tr>
@@ -71,3 +113,20 @@
     </td>
   </tr>
 </table>
+
+<br />
+
+<hr />
+
+## 📈 Status
+
+<div display="flex">
+  
+  <a href="https://solved.ac/tjgus522/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tjgus522" />
+  </a>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=hyunn522&show_icons=true&theme=graywhite" />
+  
+</div>
+
