@@ -4,11 +4,11 @@
 
 ## Hi there!
 
-I'm a **Backend Developer** who enjoys learning new technologies and recently expanding into **Infra & Cloud Engineering**. 
-
-I value **collaboration and communication**, focused on creating technical value through collaboration.
-
-With a passion for scalable and reliable systems, I aim to design services that are not only effective but also meaningful.
+> I'm a **Backend Developer** who enjoys learning new technologies and recently expanding into **Infra & Cloud Engineering**. 
+> 
+> I value **collaboration and communication**, focused on creating technical value through collaboration.
+> 
+> With a passion for scalable and reliable systems, I aim to design services that are not only effective but also meaningful.
 
 </div>
 
@@ -17,9 +17,9 @@ With a passion for scalable and reliable systems, I aim to design services that 
 ## 🧩 Activity
 
 - `2021.03 ~` 건국대학교 컴퓨터공학부
-- `2023.09 ~ 2024.08` 건국대학교 개발 동아리 KUIT 2, 3기 : Web, Server 파트
-- `2024.02 ~ 2024.06` 한국대학생IT경영학회 29기 : Web 파트
-- `2025.07 ~` 우리FISA 5기 : 클라우드 엔지니어링
+- `2023.09 ~ 2024.08` 건국대학교 개발 동아리 KUIT 2, 3기 : `Web`, `Server`
+- `2024.02 ~ 2024.06` 한국대학생IT경영학회 29기 : `Web`
+- `2025.07 ~` 우리FISA 5기 : `클라우드 엔지니어링`
 
 <hr />
 
