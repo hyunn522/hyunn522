@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=A7DCC9&height=200&section=header&text=Seohyun%20Jeong&fontSize=60&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:E6F4F1,100:C9D6CF&height=160&section=header&text=Seohyun%20Jeong&fontSize=55&fontColor=0F172A&animation=fadeIn)
 
 <div>
 
