@@ -65,6 +65,8 @@
 
 <br />
 
+> 📌 More projects in <a href="https://github.com/hyunn522/Portfolio">HERE</a>!
+
 <hr />
 
 ## 💻 Tech Stack
