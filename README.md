@@ -128,7 +128,7 @@
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tjgus522" />
   </a>
   
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hyunn522&show_icons=true&theme=graywhite" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hyunn522&count_private=true&show_icons=true&theme=graywhite" />
   
 </div>
 
