@@ -19,7 +19,7 @@
 - `2021.03 ~` 건국대학교 컴퓨터공학부
 - `2023.09 ~ 2024.08` 건국대학교 개발 동아리 KUIT 2, 3기 : `Web`, `Server`
 - `2024.02 ~ 2024.06` 한국대학생IT경영학회 29기 : `Web`
-- `2025.07 ~` 우리FISA 5기 : `클라우드 엔지니어링`
+- `2025.07 ~ 2025.12` 우리FISA 5기 : `클라우드 엔지니어링`
 
 <hr />
 
@@ -56,10 +56,10 @@
   </tr>
   <tr>
     <td>4</td>
-    <td><a href="https://github.com/Woori-Kafrika/Kafrika-BE"><b>🫑 Kafrika</b></a></td>
-    <td>Kafka 도입 여부에 따른 실시간 대규모 트래픽 처리 성능 비교</td>
-    <td>Kafka, Java, JMeter</td>
-    <td>2025.07.21 ~ 2025.08.04</td>
+    <td><a href="https://github.com/AllStackProject/Backend"><b>🎥 Privideo</b></a></td>
+    <td>하이브리드 클라우드 환경 기반 조직형 프라이빗 동영상 공유 플랫폼</td>
+    <td>Java, Spring Boot</td>
+    <td>2025.10.16 ~ 2025.12.11</td>
   </tr>
 </table>
 
