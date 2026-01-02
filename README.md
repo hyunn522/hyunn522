@@ -12,8 +12,6 @@
 
 </div>
 
-<hr />
-
 ## 🧩 Activity
 
 - `2021.03 ~` 건국대학교 컴퓨터공학부
@@ -21,9 +19,7 @@
 - `2024.02 ~ 2024.06` 한국대학생IT경영학회 29기 : `Web`
 - `2025.07 ~ 2025.12` 우리FISA 5기 : `클라우드 엔지니어링`
 
-<hr />
-
-## 📁 Key Projects
+## 📁 Projects
 
 <table>
   <tr>
@@ -62,12 +58,6 @@
     <td>2025.10.16 ~ 2025.12.11</td>
   </tr>
 </table>
-
-<br />
-
-> 📌 More projects in <a href="https://github.com/hyunn522/Portfolio">HERE</a>!
-
-<hr />
 
 ## 💻 Tech Stack
 
@@ -115,10 +105,6 @@
     </td>
   </tr>
 </table>
-
-<br />
-
-<hr />
 
 ## 📈 Status
 
