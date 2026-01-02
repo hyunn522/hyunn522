@@ -14,50 +14,10 @@
 
 ## 🧩 Activity
 
-- `2021.03 ~` 건국대학교 컴퓨터공학부
-- `2023.09 ~ 2024.08` 건국대학교 개발 동아리 KUIT 2, 3기 : `Web`, `Server`
-- `2024.02 ~ 2024.06` 한국대학생IT경영학회 29기 : `Web`
-- `2025.07 ~ 2025.12` 우리FISA 5기 : `클라우드 엔지니어링`
-
-## 📁 Projects
-
-<table>
-  <tr>
-    <th>No.</th>
-    <th>이름</th>
-    <th>설명</th>
-    <th>주요 스택</th>
-    <th>기간</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td><a href="https://github.com/Chat-Diary/FE"><b>😺 Chat Diary</b></a></td>
-    <td>AI와의 대화를 통해 간편하게 일기를 작성할 수 있는 서비스</td>
-    <td>React, Typescript</td>
-    <td>2023.12.28 ~ 2024.02.20</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td><a href="https://github.com/Kusitms-29th-Meetup-TeamE/Frontend"><b>👵🏻 DDOBA</b></a></td>
-    <td>시니어의 활발한 사회 참여를 위한 커뮤니티 서비스</td>
-    <td>NextJS, Typescript</td>
-    <td>2024.04.21 ~ 2024.05.23</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td><a href="https://github.com/KUIT-Space/KUIT_Space_BackEnd"><b>🚀 Space</b></a></td>
-    <td>정산, 커뮤니티, 채팅, 회의 기능을 제공하는 동아리 통합 관리 서비스</td>
-    <td>Java, Spring Boot</td>
-    <td>2024.06.28 ~ 2025.03.18</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td><a href="https://github.com/AllStackProject/Backend"><b>🎥 Privideo</b></a></td>
-    <td>하이브리드 클라우드 환경 기반 조직형 프라이빗 동영상 공유 플랫폼</td>
-    <td>Java, Spring Boot</td>
-    <td>2025.10.16 ~ 2025.12.11</td>
-  </tr>
-</table>
+- `2021.03 ~ 2026.02` 건국대학교 컴퓨터공학부
+- `2023.09 ~ 2024.08` 건국대학교 IT 동아리 KUIT 2, 3기 | `Web`, `Server`
+- `2024.02 ~ 2024.06` 한국대학생IT경영학회 29기 | `Web`
+- `2025.07 ~ 2025.12` 우리FIS 아카데미 5기 | `클라우드 엔지니어링`
 
 ## 💻 Tech Stack
 
@@ -106,15 +66,58 @@
   </tr>
 </table>
 
-## 📈 Status
+## 📁 Projects
 
-<div display="flex">
-  
-  <a href="https://solved.ac/tjgus522/">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tjgus522" />
-  </a>
-  
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hyunn522&count_private=true&show_icons=true&theme=graywhite" />
-  
-</div>
+<table>
+  <tr>
+    <th>No.</th>
+    <th>이름</th>
+    <th>설명</th>
+    <th>주요 스택</th>
+    <th>기간</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td><a href="https://github.com/Chat-Diary/FE"><b>😺 Chat Diary</b></a></td>
+    <td>AI와의 대화를 통해 간편하게 일기를 작성할 수 있는 서비스</td>
+    <td>React, Typescript</td>
+    <td>2023.12.28 ~ 2024.02.20</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td><a href="https://github.com/Kusitms-29th-Meetup-TeamE/Frontend"><b>👵🏻 DDOBA</b></a></td>
+    <td>시니어의 활발한 사회 참여를 위한 커뮤니티 서비스</td>
+    <td>NextJS, Typescript</td>
+    <td>2024.04.21 ~ 2024.05.23</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td><a href="https://github.com/KUIT-Space/KUIT_Space_BackEnd"><b>🚀 Space</b></a></td>
+    <td>정산, 커뮤니티, 채팅, 회의 기능을 제공하는 동아리 통합 관리 서비스</td>
+    <td>Java, Spring Boot</td>
+    <td>2024.06.28 ~ 2025.03.18</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td><a href="https://github.com/AllStackProject/Backend"><b>🎥 Privideo</b></a></td>
+    <td>하이브리드 클라우드 환경 기반 조직형 프라이빗 동영상 공유 플랫폼</td>
+    <td>Java, Spring Boot</td>
+    <td>2025.10.16 ~ 2025.12.11</td>
+  </tr>
+</table>
+
+## 📈 Stats
+
+<table width="100%">
+  <tr>
+    <td align="center" width="40%">
+      <a href="https://solved.ac/tjgus522/">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tjgus522" />
+      </a>
+    </td>
+    <td align="center" width="60%">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hyunn522&count_private=true&show_icons=true&theme=graywhite" />
+    </td>
+  </tr>
+</table>
 
