@@ -4,9 +4,9 @@
   
 ### Hi there!
 
-I'm a backend developer who cares about **reliable, maintainable, and scalable** systems.
+I'm a backend developer who cares about **reliable, maintainable, and scalable** systems from API design to operation.
 
-I solve problems with clear evidence and aim to design services that stay manageable as they grow.
+I solve problems with clear evidence and aim to design services that stay maintainable and scalable as they grow.
 
 I design backend systems with deployment, cloud infrastructure, and secure service operation in mind.
 
