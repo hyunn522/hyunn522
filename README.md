@@ -1,14 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:E6F4F1,100:C9D6CF&height=160&section=header&text=Seohyun%20Jeong&fontSize=55&fontColor=0F172A&animation=fadeIn)
 
 <div>
+  
+### Hi there!
 
-## Hi there!
+I'm a backend developer who cares about **reliable, maintainable, and scalable** systems.
 
-> I'm a **Backend Developer** who enjoys learning new technologies and recently expanding into **Infra & Cloud Engineering**. 
-> 
-> I value **collaboration and communication**, focused on creating technical value through collaboration.
-> 
-> With a passion for scalable and reliable systems, I aim to design services that are not only effective but also meaningful.
+I solve problems with clear evidence and aim to design services that stay manageable as they grow.
+
+I design backend systems with deployment, cloud infrastructure, and secure service operation in mind.
 
 </div>
 
