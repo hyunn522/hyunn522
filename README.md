@@ -18,6 +18,7 @@ I design backend systems with deployment, cloud infrastructure, and secure servi
 - `2023.09 ~ 2024.08` 건국대학교 IT 동아리 KUIT 2nd, 3rd | `Web`, `Server`
 - `2024.02 ~ 2024.06` KUSITMS(한국대학생IT경영학회) 29th | `Web`
 - `2025.07 ~ 2025.12` 우리FIS 아카데미 5th | `클라우드 엔지니어링`
+- `2026.04 ~ ` AI·SW 마에스트로 17th
 
 ## 💻 Tech Stack
 
