@@ -107,18 +107,3 @@ I design backend systems with deployment, cloud infrastructure, and secure servi
   </tr>
 </table>
 
-## 📈 Stats
-
-<table width="100%">
-  <tr>
-    <td align="center" width="40%">
-      <a href="https://solved.ac/tjgus522/">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tjgus522" />
-      </a>
-    </td>
-    <td align="center" width="60%">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hyunn522&count_private=true&show_icons=true&theme=graywhite" />
-    </td>
-  </tr>
-</table>
-
